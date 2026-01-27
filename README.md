@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Hardikv07/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Hardikv07/DSA-CP/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Hardikv07/DSA-CP/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hardikv07/DSA-CP/tree/master/0646-maximum-length-of-pair-chain) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Hardikv07/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hardikv07/DSA-CP/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Hardikv07/DSA-CP/tree/master/1895-largest-magic-square) |
 ## Binary Search
