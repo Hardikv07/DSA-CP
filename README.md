@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Hardikv07/DSA-CP/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Hardikv07/DSA-CP/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0454-4sum-ii) |
+| [0477-total-hamming-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0477-total-hamming-distance) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hardikv07/DSA-CP/tree/master/0646-maximum-length-of-pair-chain) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hardikv07/DSA-CP/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hardikv07/DSA-CP/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0477-total-hamming-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0477-total-hamming-distance) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hardikv07/DSA-CP/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0477-total-hamming-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0477-total-hamming-distance) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
