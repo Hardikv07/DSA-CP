@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0477-total-hamming-distance) |
+| [0754-reach-a-number](https://github.com/Hardikv07/DSA-CP/tree/master/0754-reach-a-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hardikv07/DSA-CP/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0754-reach-a-number](https://github.com/Hardikv07/DSA-CP/tree/master/0754-reach-a-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hardikv07/DSA-CP/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Stack
 |  |
