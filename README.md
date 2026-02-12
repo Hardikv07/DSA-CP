@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0454-4sum-ii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hardikv07/DSA-CP/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/Hardikv07/DSA-CP/tree/master/0678-valid-parenthesis-string) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Hardikv07/DSA-CP/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
 ## Memoization
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
