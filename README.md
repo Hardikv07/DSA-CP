@@ -78,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Hardikv07/DSA-CP/tree/master/0190-reverse-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hardikv07/DSA-CP/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Hardikv07/DSA-CP/tree/master/0190-reverse-bits) |
 | [0477-total-hamming-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0477-total-hamming-distance) |
 | [0861-score-after-flipping-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/0861-score-after-flipping-matrix) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
