@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Hardikv07/DSA-CP/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Hardikv07/DSA-CP/tree/master/0401-binary-watch) |
 | [0477-total-hamming-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0477-total-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Hardikv07/DSA-CP/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-score-after-flipping-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/0861-score-after-flipping-matrix) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
