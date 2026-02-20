@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Hardikv07/DSA-CP/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/Hardikv07/DSA-CP/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Hardikv07/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Hardikv07/DSA-CP/tree/master/0239-sliding-window-maximum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Hardikv07/DSA-CP/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Hardikv07/DSA-CP/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Hardikv07/DSA-CP/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hardikv07/DSA-CP/tree/master/0646-maximum-length-of-pair-chain) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Hardikv07/DSA-CP/tree/master/0064-minimum-path-sum) |
 | [0861-score-after-flipping-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/0861-score-after-flipping-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hardikv07/DSA-CP/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Hardikv07/DSA-CP/tree/master/1895-largest-magic-square) |
