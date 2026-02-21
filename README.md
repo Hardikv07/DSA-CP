@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Hardikv07/DSA-CP/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Hardikv07/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Hardikv07/DSA-CP/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Hardikv07/DSA-CP/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Hardikv07/DSA-CP/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0454-4sum-ii) |
 | [0477-total-hamming-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0477-total-hamming-distance) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Hardikv07/DSA-CP/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Hardikv07/DSA-CP/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Hardikv07/DSA-CP/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Hardikv07/DSA-CP/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Hardikv07/DSA-CP/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hardikv07/DSA-CP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Hardikv07/DSA-CP/tree/master/0678-valid-parenthesis-string) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Hardikv07/DSA-CP/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
