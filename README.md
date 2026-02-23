@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hardikv07/DSA-CP/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0454-4sum-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0454-4sum-ii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Hardikv07/DSA-CP/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Hardikv07/DSA-CP/tree/master/0696-count-binary-substrings) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/Hardikv07/DSA-CP/tree/master/0868-binary-gap) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Sorting
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Hardikv07/DSA-CP/tree/master/0322-coin-change) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
