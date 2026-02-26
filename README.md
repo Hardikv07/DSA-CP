@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Hardikv07/DSA-CP/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Hardikv07/DSA-CP/tree/master/0696-count-binary-substrings) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Hardikv07/DSA-CP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/Hardikv07/DSA-CP/tree/master/0868-binary-gap) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Hardikv07/DSA-CP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Hardikv07/DSA-CP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-transformed-array](https://github.com/Hardikv07/DSA-CP/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
