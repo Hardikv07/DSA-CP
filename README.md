@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hardikv07/DSA-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Hardikv07/DSA-CP/tree/master/1895-largest-magic-square) |
+| [1980-find-unique-binary-string](https://github.com/Hardikv07/DSA-CP/tree/master/1980-find-unique-binary-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hardikv07/DSA-CP/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Hardikv07/DSA-CP/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0454-4sum-ii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Hardikv07/DSA-CP/tree/master/1980-find-unique-binary-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Hardikv07/DSA-CP/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Hardikv07/DSA-CP/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Hardikv07/DSA-CP/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Hardikv07/DSA-CP/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Hardikv07/DSA-CP/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hardikv07/DSA-CP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0401-binary-watch](https://github.com/Hardikv07/DSA-CP/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Hardikv07/DSA-CP/tree/master/1980-find-unique-binary-string) |
 ## Enumeration
 |  |
 | ------- |
