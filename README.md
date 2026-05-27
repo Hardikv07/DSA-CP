@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Hardikv07/DSA-CP/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hardikv07/DSA-CP/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Hardikv07/DSA-CP/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1463-cherry-pickup-ii](https://github.com/Hardikv07/DSA-CP/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hardikv07/DSA-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Hardikv07/DSA-CP/tree/master/1895-largest-magic-square) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Hardikv07/DSA-CP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Hardikv07/DSA-CP/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/Hardikv07/DSA-CP/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/Hardikv07/DSA-CP/tree/master/1463-cherry-pickup-ii) |
 | [1871-jump-game-vii](https://github.com/Hardikv07/DSA-CP/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Hardikv07/DSA-CP/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Hardikv07/DSA-CP/tree/master/0931-minimum-falling-path-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hardikv07/DSA-CP/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1463-cherry-pickup-ii](https://github.com/Hardikv07/DSA-CP/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Hardikv07/DSA-CP/tree/master/1895-largest-magic-square) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Hardikv07/DSA-CP/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
