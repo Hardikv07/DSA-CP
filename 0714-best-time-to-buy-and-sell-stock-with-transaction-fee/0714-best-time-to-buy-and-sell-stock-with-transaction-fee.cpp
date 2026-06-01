@@ -2,24 +2,26 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices, int fee) {
         int n = (int)prices.size();
-        vector<vector<int>> dp(n, vector<int>(2, -1));
-
-        auto fun = [&](auto&& self, int buy, int day) -> int {
-            if (day >= n)
-                return 0;
-
-            if (dp[day][buy] != -1)
-                return dp[day][buy];
-            int profit = 0;
-            if (!buy) {
-                profit = max(self(self, 0, day + 1),
-                             (-prices[day])+self(self, 1, day + 1));
-            } else {
-                profit = max(self(self, 1, day + 1),
-                             prices[day] - fee + self(self, 0, day + 1));
+        vector<vector<int>> dp(n+1, vector<int>(2));
+       
+        for(int i=n-1; i>=0; i--)
+        {
+            for(int buy=0; buy<=1; buy++)
+            {
+                if(!buy)
+                {
+                    dp[i][buy] = max(dp[i+1][buy],-prices[i]+dp[i+1][1]);
+                }
+                else
+                {
+                    dp[i][buy] = max(dp[i+1][buy],prices[i]+dp[i+1][0]-fee);
+                }
+                // dp[i][buy] = max(0,dp[i][buy]);
             }
-            return dp[day][buy] = max(0, profit);
-        };
-        return fun(fun,0,0);
+        }
+
+        return dp[0][0];
+
+        
     }
 };
