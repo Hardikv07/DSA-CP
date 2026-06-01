@@ -5,7 +5,21 @@ public:
         int sum = accumulate(nums.begin(),nums.end(),0);
         if(sum&1)return false;
         int t = sum/2;
-        vector<vector<int>> dp(n, vector<int>(sum + 1, -1));
+
+        vector<vector<int>> dp(n+1, vector<int>(sum + 1,0));
+         dp[0][0]=1;
+        for(int i=0; i<=t; i++)
+        {
+            for(int j=1; j<=n; j++)
+            {
+                 dp[j][i] = dp[j-1][i];
+
+                 if(i - nums[j-1] >= 0)
+                 {
+                    dp[j][i] |= dp[j-1][i-nums[j-1]];
+                 }
+            }
+        }
         
         auto fun = [&](auto &&self, int idx,int sm)->bool{
              if(sm==t)return true;
@@ -18,6 +32,7 @@ public:
              return dp[idx][sm] = one | two;
         };
 
-        return fun(fun,0,0);
+        return dp[n][t];
+
     }
 };
