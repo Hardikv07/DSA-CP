@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0454-4sum-ii) |
 | [0477-total-hamming-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0477-total-hamming-distance) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hardikv07/DSA-CP/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hardikv07/DSA-CP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hardikv07/DSA-CP/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0861-score-after-flipping-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/0861-score-after-flipping-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Hardikv07/DSA-CP/tree/master/0874-walking-robot-simulation) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Hardikv07/DSA-CP/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hardikv07/DSA-CP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Hardikv07/DSA-CP/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hardikv07/DSA-CP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/Hardikv07/DSA-CP/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Hardikv07/DSA-CP/tree/master/1463-cherry-pickup-ii) |
 | [1871-jump-game-vii](https://github.com/Hardikv07/DSA-CP/tree/master/1871-jump-game-vii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Hardikv07/DSA-CP/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hardikv07/DSA-CP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Hardikv07/DSA-CP/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hardikv07/DSA-CP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0861-score-after-flipping-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/0861-score-after-flipping-matrix) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Hardikv07/DSA-CP/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hardikv07/DSA-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
