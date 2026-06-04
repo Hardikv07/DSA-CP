@@ -366,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hardikv07/DSA-CP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Hardikv07/DSA-CP/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
