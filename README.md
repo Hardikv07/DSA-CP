@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hardikv07/DSA-CP/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0115-distinct-subsequences](https://github.com/Hardikv07/DSA-CP/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Hardikv07/DSA-CP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hardikv07/DSA-CP/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/Hardikv07/DSA-CP/tree/master/0678-valid-parenthesis-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Hardikv07/DSA-CP/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Hardikv07/DSA-CP/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Hardikv07/DSA-CP/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Hardikv07/DSA-CP/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Hardikv07/DSA-CP/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Hardikv07/DSA-CP/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
