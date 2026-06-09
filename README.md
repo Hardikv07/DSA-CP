@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hardikv07/DSA-CP/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0208-implement-trie-prefix-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hardikv07/DSA-CP/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0454-4sum-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0454-4sum-ii) |
 | [0874-walking-robot-simulation](https://github.com/Hardikv07/DSA-CP/tree/master/0874-walking-robot-simulation) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Hardikv07/DSA-CP/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0132-palindrome-partitioning-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Hardikv07/DSA-CP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hardikv07/DSA-CP/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/Hardikv07/DSA-CP/tree/master/0678-valid-parenthesis-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Hardikv07/DSA-CP/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0208-implement-trie-prefix-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Hardikv07/DSA-CP/tree/master/0595-big-countries) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
