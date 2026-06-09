@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Hardikv07/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Hardikv07/DSA-CP/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Hardikv07/DSA-CP/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Hardikv07/DSA-CP/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Hardikv07/DSA-CP/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Hardikv07/DSA-CP/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Hardikv07/DSA-CP/tree/master/0377-combination-sum-iv) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Hardikv07/DSA-CP/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Hardikv07/DSA-CP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Hardikv07/DSA-CP/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Hardikv07/DSA-CP/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Hardikv07/DSA-CP/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Hardikv07/DSA-CP/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Hardikv07/DSA-CP/tree/master/0377-combination-sum-iv) |
