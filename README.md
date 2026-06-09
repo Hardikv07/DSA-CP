@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hardikv07/DSA-CP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3637-trionic-array-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Hardikv07/DSA-CP/tree/master/3689-maximum-total-subarray-value-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Hardikv07/DSA-CP/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hardikv07/DSA-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Hardikv07/DSA-CP/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
 | ------- |
