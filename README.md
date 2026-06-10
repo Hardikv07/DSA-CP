@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Hardikv07/DSA-CP/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1463-cherry-pickup-ii](https://github.com/Hardikv07/DSA-CP/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hardikv07/DSA-CP/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Hardikv07/DSA-CP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hardikv07/DSA-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Hardikv07/DSA-CP/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/Hardikv07/DSA-CP/tree/master/1980-find-unique-binary-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Hardikv07/DSA-CP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Hardikv07/DSA-CP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Hardikv07/DSA-CP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Sorting
@@ -402,4 +404,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hardikv07/DSA-CP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Hardikv07/DSA-CP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
