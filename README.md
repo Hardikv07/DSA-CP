@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Hardikv07/DSA-CP/tree/master/0696-count-binary-substrings) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Hardikv07/DSA-CP/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1143-longest-common-subsequence](https://github.com/Hardikv07/DSA-CP/tree/master/1143-longest-common-subsequence) |
+| [1392-longest-happy-prefix](https://github.com/Hardikv07/DSA-CP/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Hardikv07/DSA-CP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Hardikv07/DSA-CP/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -334,11 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Hardikv07/DSA-CP/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Hardikv07/DSA-CP/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Hardikv07/DSA-CP/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Hardikv07/DSA-CP/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hardikv07/DSA-CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Tree
 |  |
@@ -415,4 +418,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Hardikv07/DSA-CP/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Hardikv07/DSA-CP/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
