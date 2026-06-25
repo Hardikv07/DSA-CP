@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hardikv07/DSA-CP/tree/master/3689-maximum-total-subarray-value-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/Hardikv07/DSA-CP/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Hardikv07/DSA-CP/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Hardikv07/DSA-CP/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Hardikv07/DSA-CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/Hardikv07/DSA-CP/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Greedy
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hardikv07/DSA-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hardikv07/DSA-CP/tree/master/3689-maximum-total-subarray-value-i) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/Hardikv07/DSA-CP/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Matrix
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Hardikv07/DSA-CP/tree/master/1895-largest-magic-square) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Hardikv07/DSA-CP/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/Hardikv07/DSA-CP/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Binary Search
 |  |
 | ------- |
