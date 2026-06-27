@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hardikv07/DSA-CP/tree/master/3689-maximum-total-subarray-value-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Hardikv07/DSA-CP/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Hardikv07/DSA-CP/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Math
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Hardikv07/DSA-CP/tree/master/1463-cherry-pickup-ii) |
 | [1871-jump-game-vii](https://github.com/Hardikv07/DSA-CP/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Hardikv07/DSA-CP/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Hardikv07/DSA-CP/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Hardikv07/DSA-CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Hardikv07/DSA-CP/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Greedy
