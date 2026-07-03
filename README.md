@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Hardikv07/DSA-CP/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3620-network-recovery-pathways](https://github.com/Hardikv07/DSA-CP/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hardikv07/DSA-CP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3637-trionic-array-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Hardikv07/DSA-CP/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Hardikv07/DSA-CP/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hardikv07/DSA-CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3620-network-recovery-pathways](https://github.com/Hardikv07/DSA-CP/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Hardikv07/DSA-CP/tree/master/1463-cherry-pickup-ii) |
 | [1871-jump-game-vii](https://github.com/Hardikv07/DSA-CP/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Hardikv07/DSA-CP/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3620-network-recovery-pathways](https://github.com/Hardikv07/DSA-CP/tree/master/3620-network-recovery-pathways) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Hardikv07/DSA-CP/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Hardikv07/DSA-CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Hardikv07/DSA-CP/tree/master/3891-minimum-increase-to-maximize-special-indices) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hardikv07/DSA-CP/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/Hardikv07/DSA-CP/tree/master/0754-reach-a-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hardikv07/DSA-CP/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3620-network-recovery-pathways](https://github.com/Hardikv07/DSA-CP/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Stack
 |  |
@@ -429,4 +433,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Hardikv07/DSA-CP/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Hardikv07/DSA-CP/tree/master/1392-longest-happy-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Hardikv07/DSA-CP/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Hardikv07/DSA-CP/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Hardikv07/DSA-CP/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
