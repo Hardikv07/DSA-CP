@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hardikv07/DSA-CP/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hardikv07/DSA-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hardikv07/DSA-CP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Rolling Hash
 |  |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Hardikv07/DSA-CP/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hardikv07/DSA-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hardikv07/DSA-CP/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hardikv07/DSA-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/Hardikv07/DSA-CP/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Hardikv07/DSA-CP/tree/master/3620-network-recovery-pathways) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hardikv07/DSA-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
