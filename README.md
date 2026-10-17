@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Hardikv07/DSA-CP/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Hardikv07/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Hardikv07/DSA-CP/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/Hardikv07/DSA-CP/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Hardikv07/DSA-CP/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Hardikv07/DSA-CP/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Hardikv07/DSA-CP/tree/master/0322-coin-change) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Hardikv07/DSA-CP/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/Hardikv07/DSA-CP/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Hardikv07/DSA-CP/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hardikv07/DSA-CP/tree/master/0646-maximum-length-of-pair-chain) |
@@ -462,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hardikv07/DSA-CP/tree/master/0023-merge-k-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Hardikv07/DSA-CP/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
