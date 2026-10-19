@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hardikv07/DSA-CP/tree/master/0014-longest-common-prefix) |
 | [0064-minimum-path-sum](https://github.com/Hardikv07/DSA-CP/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Hardikv07/DSA-CP/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hardikv07/DSA-CP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hardikv07/DSA-CP/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hardikv07/DSA-CP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Hardikv07/DSA-CP/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Hardikv07/DSA-CP/tree/master/0115-distinct-subsequences) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hardikv07/DSA-CP/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hardikv07/DSA-CP/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hardikv07/DSA-CP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Hardikv07/DSA-CP/tree/master/1707-maximum-xor-with-an-element-from-array) |
