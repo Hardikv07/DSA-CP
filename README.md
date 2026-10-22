@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/Hardikv07/DSA-CP/tree/master/3721-longest-balanced-subarray-ii) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Hardikv07/DSA-CP/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Hardikv07/DSA-CP/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Hardikv07/DSA-CP/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
